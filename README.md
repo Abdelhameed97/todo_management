@@ -131,10 +131,10 @@ i18n/ar_001.po
 
 ## 🧑‍💻 Author
 
-**Abdelhameed Ibrahim**  
+**Abdelhameed Mohamed**  
 Odoo Developer | Full-Stack Engineer  
-📧 your.email@example.com  
-💼 [LinkedIn Profile or GitHub link]
+📧 abdelhameed.m.hemida@gmail.com  
+💼 [https://www.linkedin.com/in/abdelhameed-mohamed-iti]
 
 ---
 
