@@ -1,0 +1,19 @@
+@font-face{
+    font-family: "lobster-bold";
+    src: url(/todo_management/static/src/fonts/LobsterTwo-Bold.ttf);
+}
+
+@font-face{
+    font-family: "lobster-bolditalic";
+    src: url(/todo_management/static/src/fonts/LobsterTwo-BoldItalic.ttf);
+}
+
+@font-face{
+    font-family: "lobster-italic";
+    src: url(/todo_management/static/src/fonts/LobsterTwo-Italic.ttf);
+}
+
+@font-face{
+    font-family: "lobster-regular";
+    src: url(/todo_management/static/src/fonts/LobsterTwo-Regular.ttf);
+}
